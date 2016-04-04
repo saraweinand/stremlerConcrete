@@ -2,7 +2,7 @@
 layout: default
 img: sitedev.jpg
 categories : [sitedev]
-title :  Site Development
+title :  Service B
 ---
 
 ### Service B
